@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/createEmployeeAccount"
+        android:title="Create Employee Account" >
+    </item>
+
+    <item android:id="@+id/menuViewActivity"
+        android:title="View Activity" >
+    </item>
+
+    <item android:id="@+id/menuExit"
+        android:title="Exit" >
+    </item>
+</menu>
